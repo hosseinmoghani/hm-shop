@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[149],{8149:function(e,n,t){t.r(n);var u=t(2791),c=t(1804),s=t(6871),a=t(184);n.default=function(e){document.title="HM Shop | Not Found";var n=(0,s.s0)();return(0,u.useEffect)((function(){n("/404")}),[]),(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(c.Z,{})})}}}]);
+//# sourceMappingURL=149.9ac9c45b.chunk.js.map
